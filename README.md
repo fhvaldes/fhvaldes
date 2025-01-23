@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Fred 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=F75C7E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Passionate+Developer;I+❤️+to+build+cool+projects" alt="Typing SVG">
@@ -7,10 +7,10 @@
 ---
 
 ### 👨‍💻 **About Me**
-- 🌱 I’m currently learning **[Add something you're learning]**
-- 🚀 I’m working on **[Current projects or focus]**
+- 🌱 I’m currently learning **Machine Learning**
+- 🚀 I’m working on **Django Project**
 - 💬 Ask me about **[Technologies you love or specialize in]**
-- 📫 How to reach me: [Your Email/Website]
+
 
 ---
 
