@@ -9,7 +9,7 @@
 ### 👨‍💻 **About Me**
 - 🌱 I’m currently learning **Machine Learning**
 - 🚀 I’m working on **Django Project**
-- 💬 Ask me about **[Technologies you love or specialize in]**
+
 
 
 ---
